@@ -12,7 +12,7 @@ delivery automation.
 
 ## Technical Skills
 
-- **Languages:** Java (8, 11, 17, 21), Node.js, Python
+- **Languages:** Java (8, 11, 17, 21), Go, Node.js, Python
 - **Frameworks:** Spring Boot, Spring Data, NestJS, Angular, React
 - **Messaging:** Kafka, RabbitMQ, ActiveMQ
 - **Data:** DynamoDB, Oracle, MySQL, SQL Server, Redis, Elasticsearch
@@ -26,6 +26,8 @@ delivery automation.
 
 ### Zup · Senior Backend Developer · Jul. 2023 – present
 
+- Develop three conversational AI agents that perform Pix payments, with Go/Java
+  backend and Python agents.
 - Built and maintained REST APIs exposing customer registration data consolidated
   from external credit bureaus for internal consumption, in Java 11/17/21
   microservices with Spring Boot on ECS Fargate and DynamoDB.

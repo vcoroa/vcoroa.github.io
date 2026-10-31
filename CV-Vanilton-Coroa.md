@@ -12,7 +12,7 @@ e automação de entrega.
 
 ## Competências Técnicas
 
-- **Linguagens:** Java (8, 11, 17, 21), Node.js, Python
+- **Linguagens:** Java (8, 11, 17, 21), Go, Node.js, Python
 - **Frameworks:** Spring Boot, Spring Data, NestJS, Angular, React
 - **Mensageria:** Kafka, RabbitMQ, ActiveMQ
 - **Dados:** DynamoDB, Oracle, MySQL, SQL Server, Redis, Elasticsearch
@@ -26,6 +26,8 @@ e automação de entrega.
 
 ### Zup · Desenvolvedor Backend Sênior · Jul. 2023 – atual
 
+- Atuo no desenvolvimento de três agentes conversacionais de IA que realizam Pix,
+  com backend em Go/Java e agentes em Python.
 - Desenvolvi e mantive APIs REST que expõem para consumo interno dados cadastrais
   de clientes consolidados a partir de bureaus externos, em microsserviços
   Java 11/17/21 com Spring Boot sobre ECS Fargate e DynamoDB.
