@@ -37,7 +37,7 @@ observabilidade e CI/CD.
 **Stack:** Java 11/17/21, Go, Python, Spring Boot, Kafka, AWS (ECS Fargate,
 DynamoDB), GitHub Actions, JUnit, Mockito, pytest, JaCoCo, Sonar.
 
-### Globo · Desenvolvedor Backend · Jul. 2021 – Jul. 2023
+### Globo · Desenvolvedor Backend Sênior · Jul. 2021 – Jul. 2023
 
 - Evoluí os microsserviços que comparam os anúncios programados com os
   efetivamente exibidos na TV, comprovando a veiculação, com novas regras de
@@ -93,7 +93,7 @@ manutenção dos sistemas internos de ponto e contábil, em Struts 1 e PL/SQL so
 Ajudei a desenvolver sites institucionais em Python, sobre os CMS Zope e Plone, e
 contribuí com a manutenção de aplicações em ASP.
 
-**Contax S.A.** · Desenvolvedor ASP / Java · Nov. 2002 – Out. 2005\
+**Contax S.A.** · Programador · Nov. 2002 – Out. 2005\
 Mantive o site interno que orientava o call center na triagem dos chamados de
 manutenção telefônica da Oi, uma aplicação dinâmica em ASP com Microsoft Access.
 

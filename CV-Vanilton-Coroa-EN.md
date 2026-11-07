@@ -37,7 +37,7 @@ messaging, observability and CI/CD.
 **Stack:** Java 11/17/21, Go, Python, Spring Boot, Kafka, AWS (ECS Fargate,
 DynamoDB), GitHub Actions, JUnit, Mockito, pytest, JaCoCo, Sonar.
 
-### Globo · Backend Developer · Jul. 2021 – Jul. 2023
+### Globo · Senior Backend Developer · Jul. 2021 – Jul. 2023
 
 - Evolved the microservices that match scheduled TV commercials against what
   actually aired, proving ad delivery, adding new validation and reconciliation
@@ -92,7 +92,7 @@ internal timekeeping and accounting systems in Struts 1 and PL/SQL on JBoss.
 Helped build corporate websites in Python on the Zope and Plone CMSs, and
 contributed to maintaining ASP applications.
 
-**Contax S.A.** · ASP / Java Developer · Nov. 2002 – Oct. 2005\
+**Contax S.A.** · Programmer · Nov. 2002 – Oct. 2005\
 Maintained a dynamic internal site in ASP and Microsoft Access that guided call
 center agents in triaging phone maintenance tickets for Oi, a Brazilian telecom carrier.
 
