@@ -4,80 +4,98 @@ São Paulo - SP · (11) 98674-2800 · vanilton.coelho@gmail.com · linkedin.com/
 
 ## Resumo
 
-Desenvolvedor backend Java com mais de 15 anos de experiência em APIs REST,
-microsserviços e integração de sistemas, atuando em disponibilidade e resiliência.
-Experiência em modernização de aplicações, de legado J2EE a serviços em nuvem.
-Últimos 8 anos em Java com Spring Boot sobre AWS, com mensageria, observabilidade
-e automação de entrega.
+Desenvolvedor backend com trajetória em Java, do J2EE à nuvem AWS, hoje com Go e
+agentes de IA no dia a dia. Atuei em seguros, mídia e setor bancário, construindo
+APIs REST e microsserviços e modernizando sistemas legados, com mensageria,
+observabilidade e CI/CD.
 
 ## Competências Técnicas
 
-- **Linguagens:** Java (8, 11, 17, 21), Go, Node.js, Python
-- **Frameworks:** Spring Boot, Spring Data, NestJS, Angular, React
-- **Mensageria:** Kafka, RabbitMQ, ActiveMQ
-- **Dados:** DynamoDB, Oracle, MySQL, SQL Server, Redis, Elasticsearch
-- **Cloud:** AWS (ECS/Fargate, Lambda, Step Functions, S3, EC2, CloudWatch), Docker, Terraform
-- **Observabilidade:** Datadog, Grafana, CloudWatch, Splunk
+- **Linguagens e frameworks:** Java (8, 11, 17, 21), Go, Node.js, Python, Spring Boot, Spring Data, NestJS, Angular, React
+- **Mensageria e dados:** Kafka, RabbitMQ, ActiveMQ, DynamoDB, Oracle, MySQL, SQL Server, Redis, Elasticsearch
+- **Cloud e observabilidade:** AWS (ECS/Fargate, Lambda, Step Functions, S3, EC2, CloudWatch), Docker, Terraform, Datadog, Grafana, Splunk
 - **CI/CD e qualidade:** GitHub Actions, GitLab CI, Jenkins, JUnit, Mockito, JaCoCo, pytest, Sonar
-- **Versionamento:** Git (GitHub, GitLab, Bitbucket), SVN
-- **Metodologias:** Scrum
+- **Versionamento e métodos:** Git (GitHub, GitLab, Bitbucket), SVN, Scrum
 
 ## Experiência Profissional
 
 ### Zup · Desenvolvedor Backend Sênior · Jul. 2023 – atual
 
-- Atuo no desenvolvimento de três agentes conversacionais de IA que realizam Pix,
-  com backend em Go/Java e agentes em Python.
-- Desenvolvi e mantive APIs REST que expõem para consumo interno dados cadastrais
-  de clientes consolidados a partir de bureaus externos, em microsserviços
-  Java 11/17/21 com Spring Boot sobre ECS Fargate e DynamoDB.
-- Evoluí os contratos dessas APIs para expor novos dados conforme passavam a
-  existir na base, em conjunto com o time de dados responsável pela ingestão.
-- Mantive os serviços em pipeline de CI/CD em GitHub Actions com GitFlow, com
-  testes em JUnit, Mockito e pytest, cobertura em JaCoCo e análise estática no Sonar.
+#### Desde Jan. 2026
+
+- Desenvolvo o backend e os agentes de IA conversacionais que realizam Pix, em
+  Java, Go e Python, viabilizando a expansão do atendimento para quase 10x mais
+  clientes.
+
+#### Jul. 2023 – Dez. 2025
+
+- Desenvolvi uma API de validação cadastral baseada em machine learning, do
+  piloto à expansão em produção.
+- Modernizei os contratos das APIs REST de dados cadastrais, em Java 11/17/21 e
+  Spring Boot na AWS (ECS e DynamoDB).
+
+**Stack:** Java 11/17/21, Go, Python, Spring Boot, Kafka, AWS (ECS Fargate,
+DynamoDB), GitHub Actions, JUnit, Mockito, pytest, JaCoCo, Sonar.
 
 ### Globo · Desenvolvedor Backend · Jul. 2021 – Jul. 2023
 
-- Desenvolvi e mantive aplicações de programação e distribuição de comerciais na
-  grade da emissora, na squad Globo Ads.
-- Implementei novas funcionalidades e ajustes em sistemas existentes, em Java 11
-  com Spring Boot, NestJS, ReactJS, RabbitMQ, Redis, MySQL, SQL Server e Oracle,
-  com entrega via GitLab CI/CD sobre Tsuru.
+- Evoluí os microsserviços que comparam os anúncios programados com os
+  efetivamente exibidos na TV, comprovando a veiculação, com novas regras de
+  validação e conciliação e a propagação dos resultados para as exibições regionais.
+- Desenvolvi funcionalidades de ponta a ponta, do backend em Java e NestJS às
+  telas em React, para a conferência manual e o tratamento de falhas pela equipe
+  de operação.
+- Reforcei a confiabilidade das integrações com sistemas legados, tratando
+  concorrência, reprocessamento de falhas e ressincronização de dados.
 
-### Seguros Sura · Desenvolvedor Fullstack · Jul. 2017 – Jul. 2021
+**Stack:** Java 11, Spring Boot, NestJS, React, RabbitMQ, Redis, MySQL,
+SQL Server, Oracle, GitLab CI/CD, Tsuru.
 
-- Desenvolvi e mantive microsserviços Java 8 e Node.js para os produtos de Auto e
-  Transporte.
-- Trabalhei com Spring Boot, Spring Data, JPA, GraphQL, JWT, Docker, Jenkins,
-  Elasticsearch, SonarQube, ActiveMQ, IIB e AWS (Lambda, Step Functions, S3, EC2),
-  além de Angular e AngularJS no frontend, com Bitbucket e SVN no versionamento.
-- Mantive aplicações legadas em JSF, Struts, EJB 3 e Java 6/7.
+### Seguros Sura · Desenvolvedor Fullstack Sênior · Jul. 2017 – Jul. 2021
 
-### Capgemini (Cliente Bradesco) · Analista de Sistemas · Nov. 2015 – Mar. 2017
+- Desenvolvi a nova versão do sistema de cotação e proposta de seguros de
+  transporte de carga, em Java 8 com Spring Boot e AngularJS na AWS, modernizando
+  o legado em Java 6/JSF/EJB, com módulos de acordos comerciais com corretores,
+  agendamento e análise cadastral do segurado.
+- Apoiei a modernização do envio de apólices aos segurados em sistema legado
+  Java 6/JSF/EJB/WebSphere, contribuindo para substituir a correspondência pelo e-mail.
+- Evoluí o backend Java e as integrações Node.js do fluxo serverless de um seguro
+  auto de alta renda, conectando-o a bureau de crédito e a uma base externa de
+  sinistros, e integrei o produto ao portal dos corretores.
+- Evoluí o acompanhamento de pagamentos de sinistros, com retorno bancário e
+  histórico de eventos, estendendo-o ao seguro de vida.
 
-- Desenvolvi e mantive aplicações Java sobre AWB, framework JSF do Bradesco,
-  integrando com Mainframe e COBOL pelo framework PDC.
+**Stack:** Java 8, Node.js, Spring Boot, Spring Data, JPA, GraphQL, JWT,
+Angular, AngularJS, ActiveMQ, IIB, Elasticsearch, AWS (Lambda, Step Functions,
+S3, EC2), Docker, Jenkins, SonarQube, Bitbucket, SVN.
 
 ### Experiência anterior
 
+**Capgemini (Cliente Bradesco)** · Analista de Sistemas · Nov. 2015 – Mar. 2017\
+Construí aplicações Java para os canais do Bradesco, conectando o front-end em
+JSF aos sistemas centrais em Mainframe e COBOL.
+
 **Procenge (Cliente Embasa)** · Engenheiro de Sistemas · Out. 2013 – Nov. 2015\
-Migração de sistema comercial de COBOL/EGL para J2EE, sobre framework web
-proprietário da Embasa baseado em JSF 2. PrimeFaces, EJB 3, JPA/Hibernate e DB2
-sobre JBoss.
+Migrei, junto à equipe, o sistema comercial da Embasa, companhia de saneamento da
+Bahia, de COBOL/EGL para Java web, com JSF 2, PrimeFaces, EJB 3 e JPA/Hibernate
+sobre JBoss e DB2.
 
-**Meta IT (Cliente Vivo)** · Analista Desenvolvedor Java · Nov. 2009 – Set. 2013\
-Sistema jurídico da Vivo em J2EE, com levantamento de requisitos junto à área
-jurídica. JSTL, JSF 1.2, EJB 2, PL/SQL, Oracle, JBoss e WebLogic.
+**Meta IT (Cliente Vivo)** · Desenvolvedor Java Pleno · Nov. 2009 – Set. 2013\
+Evoluí o sistema jurídico da Vivo em J2EE, com JSF 1.2, EJB 2 e Oracle sobre
+WebLogic e JBoss, ajudando a levantar requisitos diretamente com a área jurídica.
 
-**Polo-It (Cliente Insinuante)** · Desenvolvedor Java · Ago. 2007 – Nov. 2009\
-E-commerce em Java, J2EE, EJB 3, JDBC, PL/SQL e JSF, e sistemas internos de ponto
-e contábil em Struts, JDBC e PL/SQL.
+**Polo-It (Cliente Insinuante)** · Desenvolvedor Java Júnior · Ago. 2007 – Nov. 2009\
+Desenvolvi funcionalidades do e-commerce da Insinuante em J2EE, com EJB 3, JSF e
+Oracle/PL/SQL, ajudando a entregar o piloto da plataforma. Contribuí com a
+manutenção dos sistemas internos de ponto e contábil, em Struts 1 e PL/SQL sobre JBoss.
 
-**220i Tecnologia** · Desenvolvedor Python / Java · Ago. 2006 – Jun. 2007\
-Sites institucionais em Python (Zope, Plone) e manutenção de aplicação em ASP.
+**220i Tecnologia** · Estagiário de Desenvolvimento · Ago. 2006 – Jun. 2007\
+Ajudei a desenvolver sites institucionais em Python, sobre os CMS Zope e Plone, e
+contribuí com a manutenção de aplicações em ASP.
 
 **Contax S.A.** · Desenvolvedor ASP / Java · Nov. 2002 – Out. 2005\
-Intranet do call center da área de manutenção de telefones, em ASP, JSP e Access.
+Mantive o site interno que orientava o call center na triagem dos chamados de
+manutenção telefônica da Oi, uma aplicação dinâmica em ASP com Microsoft Access.
 
 ## Formação
 

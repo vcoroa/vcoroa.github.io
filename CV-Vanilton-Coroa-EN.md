@@ -4,79 +4,97 @@ São Paulo - Brazil · +55 (11) 98674-2800 · vanilton.coelho@gmail.com · linke
 
 ## Summary
 
-Backend Java developer with over 15 years of experience in REST APIs,
-microservices and systems integration, working on availability and resilience.
-Experience in application modernization, from J2EE legacy to cloud services.
-Last 8 years in Java with Spring Boot on AWS, with messaging, observability and
-delivery automation.
+Backend developer with a career built on Java, from J2EE to the AWS cloud, now
+working with Go and AI agents day to day. I have worked in insurance, media and
+banking, building REST APIs and microservices and modernizing legacy systems, with
+messaging, observability and CI/CD.
 
 ## Technical Skills
 
-- **Languages:** Java (8, 11, 17, 21), Go, Node.js, Python
-- **Frameworks:** Spring Boot, Spring Data, NestJS, Angular, React
-- **Messaging:** Kafka, RabbitMQ, ActiveMQ
-- **Data:** DynamoDB, Oracle, MySQL, SQL Server, Redis, Elasticsearch
-- **Cloud:** AWS (ECS/Fargate, Lambda, Step Functions, S3, EC2, CloudWatch), Docker, Terraform
-- **Observability:** Datadog, Grafana, CloudWatch, Splunk
+- **Languages and frameworks:** Java (8, 11, 17, 21), Go, Node.js, Python, Spring Boot, Spring Data, NestJS, Angular, React
+- **Messaging and data:** Kafka, RabbitMQ, ActiveMQ, DynamoDB, Oracle, MySQL, SQL Server, Redis, Elasticsearch
+- **Cloud and observability:** AWS (ECS/Fargate, Lambda, Step Functions, S3, EC2, CloudWatch), Docker, Terraform, Datadog, Grafana, Splunk
 - **CI/CD and quality:** GitHub Actions, GitLab CI, Jenkins, JUnit, Mockito, JaCoCo, pytest, Sonar
-- **Version control:** Git (GitHub, GitLab, Bitbucket), SVN
-- **Methodologies:** Scrum
+- **Version control and methods:** Git (GitHub, GitLab, Bitbucket), SVN, Scrum
 
 ## Professional Experience
 
 ### Zup · Senior Backend Developer · Jul. 2023 – present
 
-- Develop three conversational AI agents that perform Pix payments, with Go/Java
-  backend and Python agents.
-- Built and maintained REST APIs exposing customer registration data consolidated
-  from external credit bureaus for internal consumption, in Java 11/17/21
-  microservices with Spring Boot on ECS Fargate and DynamoDB.
-- Evolved these API contracts to expose new data as it became available in the
-  database, alongside the data team responsible for ingestion.
-- Maintained the services in a CI/CD pipeline on GitHub Actions with GitFlow, with
-  tests in JUnit, Mockito and pytest, coverage in JaCoCo and static analysis in Sonar.
+#### Since Jan. 2026
+
+- Develop the backend and conversational AI agents that perform Pix payments, in
+  Java, Go and Python, enabling AI-powered service to expand to nearly 10x more
+  customers.
+
+#### Jul. 2023 – Dec. 2025
+
+- Built a machine learning-based customer registration validation API, from pilot
+  to production rollout.
+- Modernized the contracts of the customer registration REST APIs, in Java 11/17/21
+  and Spring Boot on AWS (ECS and DynamoDB).
+
+**Stack:** Java 11/17/21, Go, Python, Spring Boot, Kafka, AWS (ECS Fargate,
+DynamoDB), GitHub Actions, JUnit, Mockito, pytest, JaCoCo, Sonar.
 
 ### Globo · Backend Developer · Jul. 2021 – Jul. 2023
 
-- Built and maintained applications for scheduling and distributing commercials in
-  the broadcaster's programming grid, in the Globo Ads squad.
-- Implemented new features and adjustments to existing systems, in Java 11 with
-  Spring Boot, NestJS, ReactJS, RabbitMQ, Redis, MySQL, SQL Server and Oracle,
-  with delivery via GitLab CI/CD on Tsuru.
+- Evolved the microservices that match scheduled TV commercials against what
+  actually aired, proving ad delivery, adding new validation and reconciliation
+  rules and propagating results to regional broadcasts.
+- Built end-to-end features, from Java and NestJS backends to React screens, for
+  manual verification and failure handling by the operations team.
+- Strengthened the reliability of integrations with legacy systems, handling
+  concurrency, failure reprocessing and data resynchronization.
 
-### Seguros Sura · Fullstack Developer · Jul. 2017 – Jul. 2021
+**Stack:** Java 11, Spring Boot, NestJS, React, RabbitMQ, Redis, MySQL,
+SQL Server, Oracle, GitLab CI/CD, Tsuru.
 
-- Built and maintained Java 8 and Node.js microservices for the Auto and Transport
-  insurance products.
-- Worked with Spring Boot, Spring Data, JPA, GraphQL, JWT, Docker, Jenkins,
-  Elasticsearch, SonarQube, ActiveMQ, IIB and AWS (Lambda, Step Functions, S3, EC2),
-  plus Angular and AngularJS on the frontend, with Bitbucket and SVN for version control.
-- Maintained legacy applications in JSF, Struts, EJB 3 and Java 6/7.
+### Seguros Sura · Senior Fullstack Developer · Jul. 2017 – Jul. 2021
 
-### Capgemini (Client: Bradesco) · Systems Analyst · Nov. 2015 – Mar. 2017
+- Built the new version of the cargo transport insurance quoting and proposal
+  system, in Java 8 with Spring Boot and AngularJS on AWS, modernizing the
+  Java 6/JSF/EJB legacy, with modules for broker commercial agreements, scheduling
+  and policyholder screening.
+- Supported the modernization of policy delivery to policyholders in a
+  Java 6/JSF/EJB/WebSphere legacy system, helping replace postal mail with email.
+- Extended the Java backend and Node.js integrations behind a high-net-worth auto
+  insurance product's serverless flow, connecting it to a credit bureau and to an
+  external claims database, and integrated the product into the broker portal.
+- Evolved claims payment tracking, covering bank return and event history, and
+  extended it to life insurance.
 
-- Built and maintained Java applications on AWB, Bradesco's in-house JSF framework,
-  integrating with Mainframe and COBOL through the PDC framework.
+**Stack:** Java 8, Node.js, Spring Boot, Spring Data, JPA, GraphQL, JWT, Angular,
+AngularJS, ActiveMQ, IIB, Elasticsearch, AWS (Lambda, Step Functions, S3, EC2),
+Docker, Jenkins, SonarQube, Bitbucket, SVN.
 
 ### Earlier experience
 
+**Capgemini (Client: Bradesco)** · Systems Analyst · Nov. 2015 – Mar. 2017\
+Built Java applications for Bradesco's channels, connecting the JSF front end to
+core Mainframe and COBOL systems.
+
 **Procenge (Client: Embasa)** · Systems Engineer · Oct. 2013 – Nov. 2015\
-Migration of a commercial system from COBOL/EGL to J2EE, on Embasa's in-house web
-framework based on JSF 2. PrimeFaces, EJB 3, JPA/Hibernate and DB2 on JBoss.
+Migrated, as part of the team, the commercial system of Embasa, Bahia's
+water and sanitation utility, from COBOL/EGL to Java web, with JSF 2, PrimeFaces,
+EJB 3 and JPA/Hibernate on JBoss and DB2.
 
-**Meta IT (Client: Vivo)** · Java Developer Analyst · Nov. 2009 – Sep. 2013\
-Vivo's legal department system in J2EE, gathering requirements directly with the
-legal team. JSTL, JSF 1.2, EJB 2, PL/SQL, Oracle, JBoss and WebLogic.
+**Meta IT (Client: Vivo)** · Mid-level Java Developer · Nov. 2009 – Sep. 2013\
+Evolved Vivo's legal department system in J2EE, with JSF 1.2, EJB 2 and Oracle on
+WebLogic and JBoss, helping gather requirements directly with the legal team.
 
-**Polo-It (Client: Insinuante)** · Java Developer · Aug. 2007 – Nov. 2009\
-E-commerce in Java, J2EE, EJB 3, JDBC, PL/SQL and JSF, plus internal time-tracking
-and accounting systems in Struts, JDBC and PL/SQL.
+**Polo-It (Client: Insinuante)** · Junior Java Developer · Aug. 2007 – Nov. 2009\
+Built features for Insinuante's e-commerce platform in J2EE, with EJB 3, JSF and
+Oracle/PL/SQL, helping deliver the platform pilot. Contributed to maintaining the
+internal timekeeping and accounting systems in Struts 1 and PL/SQL on JBoss.
 
-**220i Tecnologia** · Python / Java Developer · Aug. 2006 – Jun. 2007\
-Institutional websites in Python (Zope, Plone) and maintenance of an ASP application.
+**220i Tecnologia** · Software Development Intern · Aug. 2006 – Jun. 2007\
+Helped build corporate websites in Python on the Zope and Plone CMSs, and
+contributed to maintaining ASP applications.
 
 **Contax S.A.** · ASP / Java Developer · Nov. 2002 – Oct. 2005\
-Call center intranet for the phone maintenance department, in ASP, JSP and Access.
+Maintained a dynamic internal site in ASP and Microsoft Access that guided call
+center agents in triaging phone maintenance tickets for Oi, a Brazilian telecom carrier.
 
 ## Education
 
